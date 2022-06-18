@@ -1,0 +1,14 @@
+<span class="name" style="color:#A93916">L</span><span class="green"> joined.</span>
+1655517166298
+
+<span class="name" style="color:#A93916">L</span> <span class="red"> left.</span>
+1655517179795
+
+<span class="name" style="color:#801107">L </span><span class="green"> joined.</span>
+1655517543211
+
+<span class="name" style="color:#801107">L </span>: <span class="message-content">Hu</span>
+1655517549468
+
+<span class="name" style="color:#801107">L </span> <span class="red"> left.</span>
+1655517558592
